@@ -183,8 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "9a5b673c8ab8860b",
+  "active": "4acc2708aa52c2d1",
   "lastOpenFiles": [
+    "obsidian-cli/SKILL.md~",
+    "obsidian-cli/SKILL.md",
+    "obsidian-cli",
     "obsidian-markdown/references/EMBEDS.md",
     "obsidian-markdown/references/CALLOUTS.md",
     "obsidian-markdown/SKILL.md",
