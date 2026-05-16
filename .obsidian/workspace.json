@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-markdown/references/PROPERTIES.md",
+                "file": "obsidian-markdown/SKILL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROPERTIES"
+              "title": "SKILL"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "4acc2708aa52c2d1",
   "lastOpenFiles": [
+    "SKILL.md~",
+    "SKILL.md",
+    "defuddle",
+    "obsidian-vault/SKILL.md",
+    "obsidian-markdown/references/PROPERTIES.md",
     "obsidian-cli/SKILL.md~",
     "obsidian-cli/SKILL.md",
     "obsidian-cli",
@@ -193,13 +198,11 @@
     "obsidian-markdown/SKILL.md",
     "karpathy-guidelines/SKILL.md",
     "obsidian-markdown/references/PROPERTIES.md~",
-    "obsidian-markdown/references/PROPERTIES.md",
     "obsidian-markdown/references/EMBEDS.md~",
     "obsidian-markdown/references/CALLOUTS.md~",
     "obsidian-markdown/SKILL.md~",
     "obsidian-markdown/references",
     "obsidian-markdown",
-    "diagnose/SKILL.md",
-    "obsidian-vault/SKILL.md"
+    "diagnose/SKILL.md"
   ]
 }
